@@ -1,0 +1,1 @@
+insert into item_categoly(categoly_name) values('‰Æ‹ï'),('H•i'),('–{');
